@@ -1,16 +1,53 @@
-## Hi there 👋
+══════════════════════════════
 
-<!--
-**muxriddin-web/muxriddin-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Animated Banner
 
-Here are some ideas to get you started:
+👋 Hi, I'm Muxriddin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack MERN Developer
+
+--------------------------------
+
+🚀 About Me
+
+--------------------------------
+
+💻 Tech Stack
+
+--------------------------------
+
+📊 GitHub Stats
+
+🔥 GitHub Streak
+
+📈 Top Languages
+
+--------------------------------
+
+🚀 Featured Projects
+
+♟️ Checkers Master Pro
+
+🌀 Cyber Maze Duel X
+
+🎵 Music Player
+
+🎰 VIP777
+
+💬 GapChat
+
+🌐 Portfolio
+
+--------------------------------
+
+📫 Contact
+
+LinkedIn
+
+X
+
+Portfolio
+
+Email
+
+══════════════════════════════
