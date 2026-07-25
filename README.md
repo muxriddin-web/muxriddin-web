@@ -16,7 +16,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<img src="../whoami-typing.svg" width="100%" alt="whoami animated typing"/>
+<img src="https://raw.githubusercontent.com/muxriddin-web/muxriddin-web/main/whoami-typing.svg" width="100%" alt="whoami animated typing"/>
 
 </td>
 <td width="42%" valign="top">
