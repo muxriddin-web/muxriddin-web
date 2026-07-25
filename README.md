@@ -5,35 +5,43 @@
 <h3 align="center">🚀 Full-Stack MERN Dasturchisi | React • Node.js • Express • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=40&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Clean+Code+va+Responsive+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&height=40&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Cinematic+UI+%26+Motion+Design;Clean+Code+va+Responsive+Dizayn" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muxriddin-web&label=Profil%20ko'rishlar&color=7928CA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/muxriddin-web?label=Followers&style=for-the-badge&color=A855F7" alt="Followers" />
 </p>
 
 ---
 
 ### 💻 Men Haqimda
 
-- 🔭 Hozirda **[MERN stack to'liq stack ilovalari](https://github.com/muxriddin-web)** ustida ishlayapman.
-- 🌱 Hozirda yangi texnologiyalarni o'rganib, real dunyo loyihalarini kengaytirmoqdaman.
+- 🔭 Hozirda **[MERN stack ilovalari](https://github.com/muxriddin-web)** ustida ishlayapman.
+- 🎬 Kino uslubidagi (cinematic), 3D parallax va animatsiyaga boy interfeyslar yaratishga qiziqaman.
+- 🌱 Yangi texnologiyalarni o'rganib, real loyihalarimni doimiy kengaytirib boryapman.
 - 👯 Ochiq kodli (**Open-Source**) va MERN loyihalar ustida hamkorlik qilishga tayyorman.
-- 👨‍💻 Barcha tayyorlagan loyihalarimni [Portfel Saytimda](https://mfs-portfoliouz.netlify.app/) ko'rishingiz mumkin.
-- ⚡ Qiziqarli fakt: Menga noldan murakkab va qulay interfeysli veb-ilovalar qurish yoqadi.
+- 👨‍💻 Barcha tayyorlagan loyihalarimni [Portfolio saytimda](https://mfs-portfoliouz.netlify.app/) ko'rishingiz mumkin.
+- ⚡ Qiziqarli fakt: menga noldan murakkab, silliq animatsiyali va qulay interfeysli veb-ilovalar qurish yoqadi.
 
 ---
 
 ### 🛠️ Texnologiyalar va Qurollar
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
@@ -45,12 +53,25 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muxriddin-web&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muxriddin-web&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muxriddin-web&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muxriddin-web&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muxriddin-web&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7928CA&point=ffffff" alt="Contribution Graph" />
 </p>
+
+---
+
+### 📌 Ajratilgan Loyihalar
+
+<p align="center">
+  <a href="https://github.com/muxriddin-web/GapChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muxriddin-web&repo=GapChat&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GapChat Repo" />
+  </a>
+</p>
+
+> 💬 **GapChat** — Telegram uslubidagi real-vaqt messenjer (React, Express, MongoDB, real-time xabar almashish). Yuqoridagi manzilni o'zingizning asosiy repo nomingizga moslashtiring.
 
 ---
 
