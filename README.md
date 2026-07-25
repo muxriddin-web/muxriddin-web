@@ -16,12 +16,12 @@
 <tr>
 <td width="58%" valign="top">
 
-<img src="https://raw.githubusercontent.com/muxriddin-web/muxriddin-web/main/whoami-typing.svg" width="100%" alt="whoami animated typing"/>
+<img src="https://raw.githubusercontent.com/muxriddin-web/muxriddin-web/main/whoami-typing.svg" width="100%" height="530" alt="whoami animated typing" />
 
 </td>
-<td width="68%" valign="top">
+<td width="42%" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding animation" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="530" style="object-fit:cover;" alt="Coding animation" />
 
 </td>
 </tr>
