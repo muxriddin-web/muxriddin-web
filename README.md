@@ -61,7 +61,7 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/muxriddin-web/GapChat">
+  <a href="https://github.com/muxriddin-web/GAPCHAT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muxriddin-web&repo=GapChat&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GapChat Repo" />
   </a>
 </p>
