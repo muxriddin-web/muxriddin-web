@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/muxriddin-web/GAPCHAT">
-    <img src="client/src/assets/logo.png" alt="GapChat Repo" />
+    <img src="https://github.com/muxriddin-web/GAPCHAT/blob/main/client/src/assets/logo.png" alt="GapChat Repo" />
   </a>
 </p>
 
