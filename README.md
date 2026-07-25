@@ -11,37 +11,59 @@
 ---
 
 ### 💻 About Me
- 
+
 <table>
 <tr>
 <td width="60%" valign="top">
+
 ```yaml
 whoami:
   name: "Muxriddin O'tkirov"
   role: "Full-Stack MERN Developer"
+  tagline: "Building modern, scalable, and user-friendly web applications"
   location: "Tashkent, Uzbekistan"
-  focus:
-    - Cinematic & motion-driven UI
-    - 3D parallax scroll experiences
-    - Real-time apps (Socket.IO / MERN)
-  currently_building: "GapChat — real-time messenger"
-  currently_learning: "Advanced GSAP & Three.js"
-  fun_fact: "I love turning static pages into living, breathing interfaces."
+
+  currently_working_on: >
+    Full-stack MERN applications
+
+  looking_to_collaborate_on: >
+    MERN stack & open-source projects
+
+  looking_for_help_with: >
+    Feedback, mentorship, and learning
+    from the developer community
+
+  currently_learning: >
+    New technologies — sharpening my MERN
+    stack skills through real-world projects
+
+  ask_me_about: >
+    MERN stack projects, my learning journey,
+    and web development experience
+
+  fun_fact: "I enjoy learning new technologies and building projects."
 ```
- 
+
 </td>
 <td width="40%" valign="top">
+
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding animation" />
+
 </td>
 </tr>
 </table>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/🔭_Currently_Working_On-MERN_Stack_Apps-7928CA?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌱_Currently_Learning-Three.js_%26_GSAP-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔭_Working_On-Full--Stack_MERN_Apps-7928CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/👯_Collaborate_On-MERN_%26_Open--Source-A855F7?style=flat-square" />
   <br/>
-  <img src="https://img.shields.io/badge/👯_Open_To-Open--Source_Collabs-7928CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤝_Open_To-Feedback_%26_Mentorship-7928CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌱_Learning-New_Technologies-A855F7?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/💬_Ask_Me_About-MERN_%26_Web_Dev-7928CA?style=flat-square" />
   <img src="https://img.shields.io/badge/📍_Based_In-Tashkent%2C_Uzbekistan-A855F7?style=flat-square" />
 </p>
+
 ---
 
 ### 🛠️ Technologies & Tools
@@ -74,10 +96,10 @@ whoami:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muxriddin-web&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7928CA&point=ffffff" alt="Contribution Graph" />
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/muxriddin-web/muxriddin-web/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 ---
 
 ### 📌 Featured Projects
