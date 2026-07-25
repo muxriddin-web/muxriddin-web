@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Clean+Code+va+Responsive+UI" alt="Typing SVG" />
 </p>
 
+<!-- Tashrif buyuruvchilar soni hisoblagichi -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muxriddin-web&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
+
 ---
 
 ### 💻 Men Haqimda
@@ -35,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Faolligi
+### 📊 GitHub Faolligi va Statistikasi
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muxriddin-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -44,6 +49,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muxriddin-web&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muxriddin-web&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muxriddin-web/muxriddin-web/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muxriddin-web/muxriddin-web/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
