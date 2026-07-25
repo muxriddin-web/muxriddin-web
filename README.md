@@ -43,6 +43,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muxriddin-web&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muxriddin-web&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
