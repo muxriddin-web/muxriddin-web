@@ -2,26 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=180&section=header&text=Muxriddin%20O'tkirov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
-<h3 align="center">🚀 Full-Stack MERN Dasturchisi | React • Node.js • Express • MongoDB</h3>
+<h3 align="center">🚀 Full-Stack MERN Developer | React • Node.js • Express • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&height=40&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Cinematic+UI+%26+Motion+Design;Clean+Code+va+Responsive+Dizayn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&height=40&lines=Building+modern+web+applications;React+%26+Node.js+specialist;Cinematic+UI+%26+Motion+Design;Clean+Code+%26+Responsive+Design" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 Men Haqimda
+### 💻 About Me
 
-- 🔭 Hozirda **[MERN stack ilovalari](https://github.com/muxriddin-web)** ustida ishlayapman.
-- 🎬 Kino uslubidagi (cinematic), 3D parallax va animatsiyaga boy interfeyslar yaratishga qiziqaman.
-- 🌱 Yangi texnologiyalarni o'rganib, real loyihalarimni doimiy kengaytirib boryapman.
-- 👯 Ochiq kodli (**Open-Source**) va MERN loyihalar ustida hamkorlik qilishga tayyorman.
-- 👨‍💻 Barcha tayyorlagan loyihalarimni [Portfolio saytimda](https://mfs-portfoliouz.netlify.app/) ko'rishingiz mumkin.
-- ⚡ Qiziqarli fakt: menga noldan murakkab, silliq animatsiyali va qulay interfeysli veb-ilovalar qurish yoqadi.
+- 🔭 Currently working on **[MERN stack applications](https://github.com/muxriddin-web)**.
+- 🎬 Passionate about building cinematic, 3D parallax, and animation-rich interfaces.
+- 🌱 Continuously learning new technologies and expanding my real-world projects.
+- 👯 Open to collaborating on **open-source** and MERN projects.
+- 👨‍💻 Check out all my projects on my [Portfolio site](https://mfs-portfoliouz.netlify.app/).
+- ⚡ Fun fact: I love building complex, smoothly animated, and user-friendly web apps from scratch.
 
 ---
 
-### 🛠️ Texnologiyalar va Qurollar
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Statistikasi
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muxriddin-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 📌 Ajratilgan Loyihalar
+### 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/muxriddin-web/GapChat">
@@ -66,11 +66,11 @@
   </a>
 </p>
 
-> 💬 **GapChat** — Telegram uslubidagi real-vaqt messenjer (React, Express, MongoDB, real-time xabar almashish). Yuqoridagi manzilni o'zingizning asosiy repo nomingizga moslashtiring.
+> 💬 **GapChat** — A Telegram-style real-time messenger (React, Express, MongoDB, real-time messaging). Update the link above to match your actual repo name.
 
 ---
 
-### 📬 Men bilan bog'lanish
+### 📬 Get In Touch
 
 <p align="center">
   <a href="mailto:otkirovmuxriddin01@gmail.com">
