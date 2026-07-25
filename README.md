@@ -1,13 +1,23 @@
-<h1 align="center">Salom 👋, men Muxriddin O'tkirov</h1>
-<h3 align="center">🚀 Full-Stack MERN Dasturchisi | React • Node.js • Express • MongoDB</h3>
+<div align="center">
+  <h1 style="font-size: 40px; background: linear-gradient(to right, #38BDF8, #818CF8, #C084FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Salom 👋, men Muxriddin O'tkirov
+  </h1>
+  <p style="font-size: 18px; font-weight: 600; color: #94A3B8;">
+    🚀 Full-Stack MERN Dasturchisi | React • Node.js • Express • MongoDB
+  </p>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Clean+Code+va+Responsive+UI" alt="Typing SVG" />
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Clean+Code+va+Responsive+UI" alt="Typing SVG" />
-</p>
+<br>
 
 ---
 
 ### 💻 Men Haqimda
+
+<div style="background-color: #0D1117; padding: 16px; border-radius: 12px; border: 1px solid #30363D;">
 
 - 🔭 Hozirda **[MERN stack to'liq stack ilovalari](https://github.com/muxriddin-web)** ustida ishlayapman.
 - 🌱 Hozirda yangi texnologiyalarni o'rganib, real dunyo loyihalarini kengaytirmoqdaman.
@@ -15,30 +25,32 @@
 - 👨‍💻 Barcha tayyorlagan loyihalarimni [Portfel Saytimda](https://mfs-portfoliouz.netlify.app/) ko'rishingiz mumkin.
 - ⚡ Qiziqarli fakt: Menga noldan murakkab va qulay interfeysli veb-ilovalar qurish yoqadi.
 
+</div>
+
 ---
 
 ### 🛠️ Texnologiyalar va Qurollar
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 6px;" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="border-radius: 6px;" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="border-radius: 6px;" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 6px;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 6px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border-radius: 6px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 6px;" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" style="border-radius: 6px;" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" style="border-radius: 6px;" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 6px;" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius: 6px;" /></a>
+</div>
 
 ---
 
 ### 📊 GitHub Statistikasi
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muxriddin-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muxriddin-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
