@@ -14,38 +14,12 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-```yaml
-whoami:
-  name: "Muxriddin O'tkirov"
-  role: "Full-Stack MERN Developer"
-  tagline: "Building modern, scalable, and user-friendly web applications"
-  location: "Tashkent, Uzbekistan"
-
-  currently_working_on: >
-    Full-stack MERN applications
-
-  looking_to_collaborate_on: >
-    MERN stack & open-source projects
-
-  looking_for_help_with: >
-    Feedback, mentorship, and learning
-    from the developer community
-
-  currently_learning: >
-    New technologies — sharpening my MERN
-    stack skills through real-world projects
-
-  ask_me_about: >
-    MERN stack projects, my learning journey,
-    and web development experience
-
-  fun_fact: "I enjoy learning new technologies and building projects."
-```
+<img src="./whoami-typing.svg" width="100%" alt="whoami animated typing" />
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding animation" />
 
