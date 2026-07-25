@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&height=40&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Cinematic+UI+%26+Motion+Design;Clean+Code+va+Responsive+Dizayn" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muxriddin-web&label=Profil%20ko'rishlar&color=7928CA&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/muxriddin-web?label=Followers&style=for-the-badge&color=A855F7" alt="Followers" />
-</p>
-
 ---
 
 ### 💻 Men Haqimda
