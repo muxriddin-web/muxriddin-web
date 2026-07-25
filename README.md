@@ -47,10 +47,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muxriddin-web&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muxriddin-web&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="49%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muxriddin-web&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7928CA&point=ffffff" alt="Contribution Graph" />
