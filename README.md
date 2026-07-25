@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=%237928CA&height=180&section=header&text=Muxriddin%20O'tkirov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=180&section=header&text=Muxriddin%20O'tkirov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
 <h3 align="center">🚀 Full-Stack MERN Dasturchisi | React • Node.js • Express • MongoDB</h3>
@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=%237928CA&height=80&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=80&section=footer" alt="Footer Banner" />
 </p>
