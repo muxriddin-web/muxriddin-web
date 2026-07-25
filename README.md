@@ -11,14 +11,37 @@
 ---
 
 ### 💻 About Me
-
-- 🔭 Currently working on **[MERN stack applications](https://github.com/muxriddin-web)**.
-- 🎬 Passionate about building cinematic, 3D parallax, and animation-rich interfaces.
-- 🌱 Continuously learning new technologies and expanding my real-world projects.
-- 👯 Open to collaborating on **open-source** and MERN projects.
-- 👨‍💻 Check out all my projects on my [Portfolio site](https://mfs-portfoliouz.netlify.app/).
-- ⚡ Fun fact: I love building complex, smoothly animated, and user-friendly web apps from scratch.
-
+ 
+<table>
+<tr>
+<td width="60%" valign="top">
+```yaml
+whoami:
+  name: "Muxriddin O'tkirov"
+  role: "Full-Stack MERN Developer"
+  location: "Tashkent, Uzbekistan"
+  focus:
+    - Cinematic & motion-driven UI
+    - 3D parallax scroll experiences
+    - Real-time apps (Socket.IO / MERN)
+  currently_building: "GapChat — real-time messenger"
+  currently_learning: "Advanced GSAP & Three.js"
+  fun_fact: "I love turning static pages into living, breathing interfaces."
+```
+ 
+</td>
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding animation" />
+</td>
+</tr>
+</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/🔭_Currently_Working_On-MERN_Stack_Apps-7928CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌱_Currently_Learning-Three.js_%26_GSAP-A855F7?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/👯_Open_To-Open--Source_Collabs-7928CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Based_In-Tashkent%2C_Uzbekistan-A855F7?style=flat-square" />
+</p>
 ---
 
 ### 🛠️ Technologies & Tools
