@@ -51,6 +51,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muxriddin-web&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7928CA&point=ffffff" alt="Contribution Graph" />
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muxriddin-web/muxriddin-web/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ---
 
 ### 📌 Featured Projects
