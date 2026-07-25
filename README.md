@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=180&section=header&text=Muxriddin%20O'tkirov&fontSize=40&fontColor=38BDF8&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=%237928CA&height=180&section=header&text=Muxriddin%20O'tkirov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
 <h3 align="center">🚀 Full-Stack MERN Dasturchisi | React • Node.js • Express • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Clean+Code+va+Responsive+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=40&lines=Zamonaviy+veb-ilovalar+yarataman;React+%26+Node.js+mutaxassisi;Clean+Code+va+Responsive+UI" alt="Typing SVG" />
 </p>
 
 ---
@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27&height=80&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=%237928CA&height=80&section=footer" alt="Footer Banner" />
 </p>
