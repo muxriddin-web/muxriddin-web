@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&height=40&lines=Building+modern+web+applications;React+%26+Node.js+specialist;Cinematic+UI+%26+Motion+Design;Clean+Code+%26+Responsive+Design" alt="Typing SVG" />
 </p>
 
----
+------
 
 ### 💻 About Me
 
