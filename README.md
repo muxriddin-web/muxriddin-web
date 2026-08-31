@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=180&section=header&text=Muxriddin%20O'tkirov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
-<h3 align="center">🚀 Full-Stack MERN Developer | React • Node.js • Express • MongoDB</h3>
+<h3 align="center">🚀 Full-Stack MERN Developer | React • Node.js • Express • MongoDB </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&height=40&lines=Building+modern+web+applications;React+%26+Node.js+specialist;Cinematic+UI+%26+Motion+Design;Clean+Code+%26+Responsive+Design" alt="Typing SVG" />
